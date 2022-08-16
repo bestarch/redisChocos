@@ -1,0 +1,48 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: redisChocos-deployment
+  namespace: app-poc
+  labels:
+    app: redisChocos-app
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: redisChocos-app
+  template:
+    metadata:
+      labels:
+        app: redisChocos-app
+    spec:
+      containers:
+        - name: redisChocos
+          image: abhishekcoder/redisChocos
+          ports:
+          - name: http
+            containerPort: 8080
+          imagePullPolicy: IfNotPresent
+          env:
+            - name: SPRING_REDIS_HOST
+              valueFrom:
+                configMapKeyRef:
+                  name: my-config
+                  key: SPRING_REDIS_HOST
+            - name: SPRING_REDIS_PORT
+              valueFrom:
+                configMapKeyRef:
+                  name: my-config
+                  key: SPRING_REDIS_PORT
+            - name: SPRING_REDIS_PASSWORD
+              valueFrom:
+                configMapKeyRef:
+                  name: my-config
+                  key: SPRING_REDIS_PASSWORD
+            - name: SPRING_REDIS_AUTH
+              valueFrom:
+                configMapKeyRef:
+                  name: my-config
+                  key: SPRING_REDIS_AUTH
+            
+
+
