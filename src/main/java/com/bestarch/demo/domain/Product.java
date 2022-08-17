@@ -13,6 +13,7 @@ public class Product {
 
 	private String productId;
 	private String productName;
+	private String location;
 	private String sku;
 	private String description;
 	private Double price;

@@ -1,35 +1,35 @@
-{"productName":"5 Star 3D","price": 2.00,"sku":"SK123","description":"Cadbury's 5 Star 3D chocolate - 100gm","Category": "Packaged food", "image":"/static/assets/custom/images/5star_3d.png"}
-{"productName":"5 Star","price": 1.00,"sku":"SK133","description":"Cadbury's 5 Star chocolate - 100gm","Category": "Packaged food", "image":"/static/assets/custom/images/5star.jpeg"}
-{"productName":"Amul bitter chocolate","price": 5.00,"sku":"SK546","description":"Amul bitter chocolate 100gm","Category": "Packaged food", "image":"/static/assets/custom/images/amul_bitter.jpeg"}
-{"productName":"Amul dark chocolate","price": 5.00,"sku":"SK547","description":"Amul dark chocolate 100gm","Category": "Packaged food", "image":"/static/assets/custom/images/amul_dark.jpg"}
-{"productName":"Bounty chocolate","price": 5.00,"sku":"SK623","description":"Bounty chocolate 100gm","Category": "Packaged food", "image":"/static/assets/custom/images/bounty.jpeg"}
-{"productName":"Bournville rich cocoa","price": 7.00,"sku":"SK123","description":"Bournville rich cocoa 100gm","Category": "Packaged food", "image":"/static/assets/custom/images/bournville.jpeg"}
-{"productName":"Brookside dark","price": 5.00,"sku":"S3420","description":"Brookside dark chocolate 100gm","Category": "Packaged food", "image":"/static/assets/custom/images/brookside.jpeg"}
-{"productName":"Cadbury's Silk","price": 5.00,"sku":"SK123","description":"Cadbury's Silk chocolate 100gm","Category": "Packaged food", "image":"/static/assets/custom/images/cad_celebrations.jpeg"}
-{"productName":"Luvit chocwich","price": 5.00,"sku":"SK788","description":"Luvit chocwich chocolate 100gm","Category": "Packaged food", "image":"/static/assets/custom/images/chocwich.jpeg"}
-{"productName":"Dairy Milk","price": 3.00,"sku":"SK781","description":"Dairy Milk chocolate 24gm","Category": "Packaged food", "image":"/static/assets/custom/images/dairy_milk_1.png"}
-{"productName":"Dairy Milk Chocolate","price": 2.00,"sku":"SK782","description":"Dairy Milk chocolate 16gm","Category": "Packaged food", "image":"/static/assets/custom/images/dairy_milk_2.png"}
-{"productName":"Luvit dairy rich","price": 3.00,"sku":"SK903","description":"Luvit dairy rich chocolate 50gm","Category": "Packaged food", "image":"/static/assets/custom/images/dairy_rich.jpeg"}
-{"productName":"Dark Fantasy","price": 5.00,"sku":"SK2243","description":"Dark Fantasy choco chip 100gm","Category": "Packaged food", "image":"/static/assets/custom/images/dark_fantasy.jpeg"}
-{"productName":"Ferrero Rocher","price": 10.00,"sku":"SK1390","description":"Ferrero Rocher 50gm","Category": "Packaged food", "image":"/static/assets/custom/images/ferrero.jpeg"}
-{"productName":"Cadbury's Fuse","price": 2.00,"sku":"SK1331","description":"Cadbury's Fuse chocolate 50gm","Category": "Packaged food", "image":"/static/assets/custom/images/fuse_1.png"}
-{"productName":"Galaxy chocolate","price": 2.00,"sku":"SK90033","description":"Galaxy chocolate 24gm","Category": "Packaged food", "image":"/static/assets/custom/images/galax.jpeg"}
-{"productName":"Hershey's creamy milk","price": 4.00,"sku":"SK87678","description":"Hershey's creamy milk chocolate 30gm","Category": "Packaged food", "image":"/static/assets/custom/images/hersheys.jpeg"}
-{"productName":"PG's Hunk","price": 5.00,"sku":"SK1243","description":"PG's Hunk chocolate 50gm","Category": "Packaged food", "image":"/static/assets/custom/images/hunk.jpeg"}
-{"productName":"Kinder Joy","price": 1.00,"sku":"SK758","description":"Kinder Joy chocolate 12gm","Category": "Packaged food", "image":"/static/assets/custom/images/kinder.jpeg"}
-{"productName":"Hershey's Kisses","price": 4.00,"sku":"SK87610","description":"Hershey's Kisses chocolate 108gm","Category": "Packaged food", "image":"/static/assets/custom/images/kisses.jpeg"}
-{"productName":"Nestle's Kitkat","price": 1.00,"sku":"SK0998","description":"Nestle's Kitkat chocolate 20gm","Category": "Packaged food", "image":"/static/assets/custom/images/kitkat.png"}
-{"productName":"Cadbury's Lickables","price": 1.00,"sku":"SK0923","description":"Cadbury's Lickables chunk 20gm","Category": "Packaged food", "image":"/static/assets/custom/images/lickables.jpeg"}
-{"productName":"Luvit Luscious","price": 2.00,"sku":"SK123","description":"Luvit Luscious chocolate 30gm","Category": "Packaged food", "image":"/static/assets/custom/images/luvit_lus.jpeg"}
-{"productName":"Mars miniatures","price": 5.00,"sku":"SK123","description":"Mars miniatures chocolate 100gm","Category": "Packaged food", "image":"/static/assets/custom/images/mars.jpeg"}
-{"productName":"Nestle's Milkybar","price": 4.00,"sku":"SK9820","description":"Nestle's Milkybar promise chocolate 30gm","Category": "Packaged food", "image":"/static/assets/custom/images/milkybar.jpeg"}
-{"productName":"Nestle's New Milkybar","price": 4.00,"sku":"SK9820","description":"Nestle's New Milkybar chocolate 30gm","Category": "Packaged food", "image":"/static/assets/custom/images/milkybar2.jpeg"}
-{"productName":"Nestle's Munch","price": 3.00,"sku":"SK4111","description":"Nestle's Munch chocolate 30gm","Category": "Packaged food", "image":"/static/assets/custom/images/munch_1.png"}
-{"productName":"Open secret unjunked","price": 5.00,"sku":"SK0043","description":"Open secret unjunked coconut 50gm","Category": "Packaged food", "image":"/static/assets/custom/images/open_secret.png"}
-{"productName":"Cadbury's Perk","price": 1.00,"sku":"SK123","description":"Cadbury's Perk chocolate 10gm","Category": "Packaged food", "image":"/static/assets/custom/images/perk_1.png"}
-{"productName":"Open secret unjunked bars","price": 4.00,"sku":"SK0067","description":"Open secret unjunked chocolate bars 100gm","Category": "Packaged food", "image":"/static/assets/custom/images/secret_carm_1.png"}
-{"productName":"Cadbury's Silk roasted almond","price": 4.00,"sku":"SK00783","description":"Cadbury's Silk roasted almond chocolate 40gm","Category": "Packaged food", "image":"/static/assets/custom/images/silk.jpeg"}
-{"productName":"Cadbury's Silk Oreo","price": 4.00,"sku":"SK00784","description":"Cadbury's Silk Oreo chocolate 40gm","Category": "Packaged food", "image":"/static/assets/custom/images/silk2.jpeg"}
-{"productName":"Snickers","price": 2.00,"sku":"SK00548","description":"Snickers chocolate 50gm","Category": "Packaged food", "image":"/static/assets/custom/images/sniker_1.png"}
-{"productName":"Cadbury's Temptations","price": 5.00,"sku":"SK001212","description":"Cadbury's Temptations rum n rasin chocolate 30gm","Category": "Packaged food", "image":"/static/assets/custom/images/temptations.jpeg"}
-{"productName":"Britania Winkin cow","price": 3.00,"sku":"SK10012","description":"Britania Winkin cow chocolate 50gm","Category": "Packaged food", "image":"/static/assets/custom/images/winkin_cow.jpeg"}
+{"productName":"5 Star 3D","price": 2.00,"sku":"SK123","description":"Cadbury's 5 Star 3D chocolate - 100gm","Category": "Packaged food", "image":"/assets/custom/images/5star_3d.png"}
+{"productName":"5 Star","price": 1.00,"sku":"SK133","description":"Cadbury's 5 Star chocolate - 100gm","Category": "Packaged food", "image":"/assets/custom/images/5star.jpeg"}
+{"productName":"Amul bitter chocolate","price": 5.00,"sku":"SK546","description":"Amul bitter chocolate 100gm","Category": "Packaged food", "image":"/assets/custom/images/amul_bitter.jpeg"}
+{"productName":"Amul dark chocolate","price": 5.00,"sku":"SK547","description":"Amul dark chocolate 100gm","Category": "Packaged food", "image":"/assets/custom/images/amul_dark.jpg"}
+{"productName":"Bounty chocolate","price": 5.00,"sku":"SK623","description":"Bounty chocolate 100gm","Category": "Packaged food", "image":"/assets/custom/images/bounty.jpeg"}
+{"productName":"Bournville rich cocoa","price": 7.00,"sku":"SK123","description":"Bournville rich cocoa 100gm","Category": "Packaged food", "image":"/assets/custom/images/bournville.jpeg"}
+{"productName":"Brookside dark","price": 5.00,"sku":"S3420","description":"Brookside dark chocolate 100gm","Category": "Packaged food", "image":"/assets/custom/images/brookside.jpeg"}
+{"productName":"Cadbury's Silk","price": 5.00,"sku":"SK123","description":"Cadbury's Silk chocolate 100gm","Category": "Packaged food", "image":"/assets/custom/images/cad_celebrations.jpeg"}
+{"productName":"Luvit chocwich","price": 5.00,"sku":"SK788","description":"Luvit chocwich chocolate 100gm","Category": "Packaged food", "image":"/assets/custom/images/chocwich.jpeg"}
+{"productName":"Dairy Milk","price": 3.00,"sku":"SK781","description":"Dairy Milk chocolate 24gm","Category": "Packaged food", "image":"/assets/custom/images/dairy_milk_1.png"}
+{"productName":"Dairy Milk Chocolate","price": 2.00,"sku":"SK782","description":"Dairy Milk chocolate 16gm","Category": "Packaged food", "image":"/assets/custom/images/dairy_milk_2.png"}
+{"productName":"Luvit dairy rich","price": 3.00,"sku":"SK903","description":"Luvit dairy rich chocolate 50gm","Category": "Packaged food", "image":"/assets/custom/images/dairy_rich.jpeg"}
+{"productName":"Dark Fantasy","price": 5.00,"sku":"SK2243","description":"Dark Fantasy choco chip 100gm","Category": "Packaged food", "image":"/assets/custom/images/dark_fantasy.jpeg"}
+{"productName":"Ferrero Rocher","price": 10.00,"sku":"SK1390","description":"Ferrero Rocher 50gm","Category": "Packaged food", "image":"/assets/custom/images/ferrero.jpeg"}
+{"productName":"Cadbury's Fuse","price": 2.00,"sku":"SK1331","description":"Cadbury's Fuse chocolate 50gm","Category": "Packaged food", "image":"/assets/custom/images/fuse_1.png"}
+{"productName":"Galaxy chocolate","price": 2.00,"sku":"SK90033","description":"Galaxy chocolate 24gm","Category": "Packaged food", "image":"/assets/custom/images/galax.jpeg"}
+{"productName":"Hershey's creamy milk","price": 4.00,"sku":"SK87678","description":"Hershey's creamy milk chocolate 30gm","Category": "Packaged food", "image":"/assets/custom/images/hersheys.jpeg"}
+{"productName":"PG's Hunk","price": 5.00,"sku":"SK1243","description":"PG's Hunk chocolate 50gm","Category": "Packaged food", "image":"/assets/custom/images/hunk.jpeg"}
+{"productName":"Kinder Joy","price": 1.00,"sku":"SK758","description":"Kinder Joy chocolate 12gm","Category": "Packaged food", "image":"/assets/custom/images/kinder.jpeg"}
+{"productName":"Hershey's Kisses","price": 4.00,"sku":"SK87610","description":"Hershey's Kisses chocolate 108gm","Category": "Packaged food", "image":"/assets/custom/images/kisses.jpeg"}
+{"productName":"Nestle's Kitkat","price": 1.00,"sku":"SK0998","description":"Nestle's Kitkat chocolate 20gm","Category": "Packaged food", "image":"/assets/custom/images/kitkat.png"}
+{"productName":"Cadbury's Lickables","price": 1.00,"sku":"SK0923","description":"Cadbury's Lickables chunk 20gm","Category": "Packaged food", "image":"/assets/custom/images/lickables.jpeg"}
+{"productName":"Luvit Luscious","price": 2.00,"sku":"SK123","description":"Luvit Luscious chocolate 30gm","Category": "Packaged food", "image":"/assets/custom/images/luvit_lus.jpeg"}
+{"productName":"Mars miniatures","price": 5.00,"sku":"SK123","description":"Mars miniatures chocolate 100gm","Category": "Packaged food", "image":"/assets/custom/images/mars.jpeg"}
+{"productName":"Nestle's Milkybar","price": 4.00,"sku":"SK9820","description":"Nestle's Milkybar promise chocolate 30gm","Category": "Packaged food", "image":"/assets/custom/images/milkybar.jpeg"}
+{"productName":"Nestle's New Milkybar","price": 4.00,"sku":"SK9820","description":"Nestle's New Milkybar chocolate 30gm","Category": "Packaged food", "image":"/assets/custom/images/milkybar2.jpeg"}
+{"productName":"Nestle's Munch","price": 3.00,"sku":"SK4111","description":"Nestle's Munch chocolate 30gm","Category": "Packaged food", "image":"/assets/custom/images/munch_1.png"}
+{"productName":"Open secret unjunked","price": 5.00,"sku":"SK0043","description":"Open secret unjunked coconut 50gm","Category": "Packaged food", "image":"/assets/custom/images/open_secret.png"}
+{"productName":"Cadbury's Perk","price": 1.00,"sku":"SK123","description":"Cadbury's Perk chocolate 10gm","Category": "Packaged food", "image":"/assets/custom/images/perk_1.png"}
+{"productName":"Open secret unjunked bars","price": 4.00,"sku":"SK0067","description":"Open secret unjunked chocolate bars 100gm","Category": "Packaged food", "image":"/assets/custom/images/secret_carm_1.png"}
+{"productName":"Cadbury's Silk roasted almond","price": 4.00,"sku":"SK00783","description":"Cadbury's Silk roasted almond chocolate 40gm","Category": "Packaged food", "image":"/assets/custom/images/silk.jpeg"}
+{"productName":"Cadbury's Silk Oreo","price": 4.00,"sku":"SK00784","description":"Cadbury's Silk Oreo chocolate 40gm","Category": "Packaged food", "image":"/assets/custom/images/silk2.jpeg"}
+{"productName":"Snickers","price": 2.00,"sku":"SK00548","description":"Snickers chocolate 50gm","Category": "Packaged food", "image":"/assets/custom/images/sniker_1.png"}
+{"productName":"Cadbury's Temptations","price": 5.00,"sku":"SK001212","description":"Cadbury's Temptations rum n rasin chocolate 30gm","Category": "Packaged food", "image":"/assets/custom/images/temptations.jpeg"}
+{"productName":"Britania Winkin cow","price": 3.00,"sku":"SK10012","description":"Britania Winkin cow chocolate 50gm","Category": "Packaged food", "image":"/assets/custom/images/winkin_cow.jpeg"}

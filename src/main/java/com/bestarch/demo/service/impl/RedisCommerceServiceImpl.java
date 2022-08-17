@@ -72,6 +72,26 @@ public class RedisCommerceServiceImpl extends RedisCommerceService {
 //				}
 //			}
 //		}
+		Product p = new Product();
+		p.setLocation("/assets/custom/images/5star_3d.png");
+		p.setDescription("hfwdfg dsgfuidsgf dsufg iugfd s");
+		p.setCategory("ITEMMMM");
+		p.setPrice(3.0);
+		p.setProductId("yfg823u4");
+		p.setProductName("Cadbury's 5 Star chocolate");
+		p.setSku("SKU587323");
+		products.add(p);
+		products.add(p);
+		products.add(p);
+		products.add(p);
+		products.add(p);
+		products.add(p);
+		products.add(p);
+		products.add(p);
+		products.add(p);
+		products.add(p);
+		products.add(p);
+		products.add(p);
 		return products;
 	}
 

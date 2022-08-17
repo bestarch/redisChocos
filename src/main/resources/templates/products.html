@@ -7,7 +7,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
 	<meta name="generator" content="Hugo 0.88.1">
-	<title>Appointments</title>
+	<title>Products</title>
 
 	<link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/checkout/">
 
@@ -29,6 +29,10 @@
 				font-size: 3.5rem;
 			}
 		}
+		
+		.table-responsive {
+		    max-height:600px;
+		}
 	</style>
 	
 	<!-- Custom styles for this template -->
@@ -45,7 +49,7 @@
 
 		<main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
 			<div class="py-5 text-center">
-				<h2>Products</h2>
+				<h2>Welcome to RedisChoco</h2>
 				<hr />
 			</div>
 			
@@ -64,20 +68,21 @@
 				<table class="table table-striped table-sm">
 					<thead>
 						<tr>
-							<th scope="col">Image</th>
-							<th scope="col">Product</th>
-							<th scope="col">Category</th>
+							<th scope="col"></th>
+							<th scope="col"></th>
 							<th scope="col">SKU</th>
 							<th scope="col">Price</th>
 						</tr>
 					</thead>
 					<tbody>
 						<tr th:each="product: ${products}">
-							<td th:text="${product.image}"></td>
-							<td th:text="${product.productName} - ${product.description}"></td>
-							<td th:text="${appointment.category}"></td>
-							<td th:text="${appointment.sku}"></td>
-							<td th:text="${appointment.price}"></td>
+							<td><img th:src="@{${product.location}}" class="rounded img-thumbnail" height="auto" width="150px"/></td>
+							<td>
+					          <strong class="d-inline-block mb-2 text-success"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><p th:text="${product.productName}"/></font></font></strong>
+					          <p th:text="${product.description}"></p>
+							</td>
+							<td th:text="${product.sku}"></td>
+							<td th:text="${product.price}"></td>
 						</tr>
 					</tbody>
 				</table>
